@@ -22,5 +22,3 @@ Areas foreseen to be investigated by the working group may include but are not l
 ## PS
 
 You can also check out the [HackMD](https://hackmd.io/@nehamoopen/liber-dslib) book we're using for collaborative note-taking! A Zotero reference library is in the works as well.
-
----
