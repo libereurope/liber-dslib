@@ -1,6 +1,6 @@
-# TO-DO LIST
+# To-Do List
 
-- [] update CONTRIBUTING.md with contributing guidelines
-- [] update CHANGELOG
-- [] add CODEOFCONDUCT.md
-- [] add license
+- [ ] update CONTRIBUTING.md with contributing guidelines
+- [ ] update CHANGELOG
+- [ ] add CODEOFCONDUCT.md
+- [ ] add license
