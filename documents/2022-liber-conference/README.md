@@ -68,4 +68,4 @@ Connecting practitioners of data science in research libraries, in order to shar
 
 Further develop landscape analysis and survey with the input of workshop attendees in a hackathon-style session.
 
---- END ---
+---
