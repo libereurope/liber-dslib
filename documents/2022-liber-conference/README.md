@@ -15,6 +15,7 @@ It also includes materials in the form of contributions from participants of the
 The directory tree below outlines the folder contents. 
 Note that docx and ppt files have also been saved as pdf files for convenience.
 
+```
 2022-liber-conference
 |   README.txt
 |
@@ -51,6 +52,7 @@ Note that docx and ppt files have also been saved as pdf files for convenience.
         reasons-to-join-workshop.xlsx
         your-definition-of-ds.png
         your-definition-of-ds.xlsx
+```
 
 ## Workshop Agenda
 
