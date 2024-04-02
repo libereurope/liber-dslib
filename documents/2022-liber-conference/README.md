@@ -1,6 +1,4 @@
-# README
-
-## Workshop: Data Science in Libraries @ LIBER 2022 
+# Workshop: Data Science in Libraries @ LIBER 2022 
  
 The LIBER Data Science in Libraries Working Group was founded in the Spring of 2021. 
 The Working Group seeks to explore and promote library engagement in applying data science and analytical methods in libraries, taking into account all kinds of processes and workflows around library collections and metadata as well as digital infrastructures and service areas.   
@@ -17,6 +15,7 @@ It also includes materials in the form of contributions from participants of the
 The directory tree below outlines the folder contents. 
 Note that docx and ppt files have also been saved as pdf files for convenience.
 
+```
 2022-liber-conference
 |   README.txt
 |
@@ -53,6 +52,7 @@ Note that docx and ppt files have also been saved as pdf files for convenience.
         reasons-to-join-workshop.xlsx
         your-definition-of-ds.png
         your-definition-of-ds.xlsx
+```
 
 ## Workshop Agenda
 
