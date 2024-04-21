@@ -18,6 +18,7 @@ Note that docx and ppt files have also been saved as pdf files for convenience.
 ```
 2022-liber-conference
 |   README.txt
+|   workshop-report-twitter.pdf
 |
 +---collaborative-documents
 |   +---docx
@@ -67,5 +68,10 @@ Connecting practitioners of data science in research libraries, in order to shar
 - 10:30 - 12:00 -> Part II (1 hour & 30 minutes)
 
 Further develop landscape analysis and survey with the input of workshop attendees in a hackathon-style session.
+
+## Workshop Report
+
+A report (of sorts) of the workshop was written as a Twitter thread: [https://twitter.com/NehaMoopen/status/1545806638371799046](https://twitter.com/NehaMoopen/status/1545806638371799046).
+The report has been archived as a pdf in this folder as well. 
 
 --- END ---
